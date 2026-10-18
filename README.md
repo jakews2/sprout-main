@@ -3,6 +3,7 @@
 # 🌱 Jake Carlo G. Mandi
 ### *Full-Stack Web Developer • Systems Architect*
 **GitHub:** [@sprout-main](https://github.com/sprout-main)
+**GitHub(2):** [@jakews2](https://github.com/jakews2)
 
 [![Status](https://img.shields.io/badge/Status-Building_%26_Shipping-7c3aed?style=flat-square&logo=rocket&logoColor=white)](#-featured-projects)
 [![Live Project](https://img.shields.io/badge/Live-sarak.free.nf-10b981?style=flat-square&logo=leaflet&logoColor=white)](https://sarak.free.nf)
